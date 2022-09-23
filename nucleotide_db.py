@@ -1,7 +1,8 @@
 from Bio import Entrez, SeqIO
 import os, sys, pyperclip
 
-Entrez.email = "lekeuffer@gmail.com"
+Entrez.email = "example@gmail.com"
+#IMPORTANT --> please, write your own email
 
 
 def nucleotide_term(term0):
