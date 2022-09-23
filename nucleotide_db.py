@@ -85,7 +85,7 @@ def nucleotide_id_seq(id0):
                 file.write("\n")
             file.write(str(rec.seq[l]))
 
-    print(f"File created\nPath --> {os.getcwd()}\\seq_info\\seq_{aux}.fasta")  # BOTAR AS PARADAS DA AULA DO MP
+    print(f"File created\nPath --> {os.getcwd()}\\seq_info\\seq_{aux}.fasta")
 
 
 if __name__ == "__main__":
