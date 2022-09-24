@@ -20,6 +20,6 @@ mainFasta.py
         [1] PROCURAR 20 ARQUIVOS PELO TERMO
         [2] PROCURAR INFORMAÇÃO COMPLETA PELO ID
         [3] ADQUIRIR ARQUIVO FASTA PELO ID
-  - Cada opção gera um arquivo novo com a opção desejada numa pasta nova, criada automáticamente caso não exista.
+  - Cada opção gera um arquivo novo com os dados desejados numa pasta nova, criada automáticamente caso não exista.
  
   
